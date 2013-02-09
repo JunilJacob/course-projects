@@ -1,0 +1,5 @@
+Opening of gate 6 = 0.524990 m
+Opening of gate 5 = 0.903005 m
+Opening of gate 4 = 0.634892 m
+Opening of gate 3 = 0.813885 m
+Opening of gate 2 = 0.907229 m
